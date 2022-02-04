@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-Yeni Dosya",
+      "appliesTo": "Yeni Dosya",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-GirisEkrani",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
